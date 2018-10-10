@@ -31,7 +31,7 @@ X = iris_dataset.data
 
 '''
 For purpose of training and testing data is split
-into 2 proportions of 80 and 20 per cent respectively
+into 2 proportions of 80 and 20 per cent respectively and lets have some good time
 '''
 
 X_train, X_test, y_train, y_test = train_test_split(X,y,test_size = 0.2) 
