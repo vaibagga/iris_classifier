@@ -10,7 +10,6 @@ https://raw.githubusercontent.com/uiuc-cse/data-fa14/gh-pages/data/iris.csv
 '''
 
 from sklearn.datasets import load_iris
-from sklearn.datasets import load_iris
 from sklearn.cross_validation import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
